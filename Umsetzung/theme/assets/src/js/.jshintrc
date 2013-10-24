@@ -1,0 +1,21 @@
+{
+  "asi"      : true,
+  "boss"     : true,
+  "browser"  : true,
+  "curly"    : false,
+  "debug"    : true,
+  "devel"    : true,
+  "eqeqeq"   : false,
+  "eqnull"   : true,
+  "expr"     : true,
+  "laxbreak" : true,
+  "laxcomma" : true,
+  "validthis": true,
+  "globals": {
+    "jQuery": true,
+    "module": true,
+    "Modernizr": true,
+    "require": true,
+    "enquire": true
+  }
+}
